@@ -1,0 +1,1 @@
+/home/gutss/.config/omarchy/current/theme/neovim.lua
